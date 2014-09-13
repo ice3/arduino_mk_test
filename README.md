@@ -1,9 +1,3 @@
-[![Build Status](https://drone.io/github.com/WeAreLeka/Bare-Arduino-Project/status.png)](https://drone.io/github.com/WeAreLeka/Bare-Arduino-Project/latest)
-
-# Bare Arduino Project
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 - [About](#about)
@@ -118,3 +112,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
+=======
+arduino_mk_test
+===============
+>>>>>>> 347b6379ec43b204f27e3e21188c9e970870c784
